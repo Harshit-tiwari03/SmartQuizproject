@@ -1,7 +1,7 @@
 SmartQuizzer: Adaptive AI based Quiz Generator. 
 Turns text or PDF's into Quiz.
 
-🧠 SmartQuizzer
+SmartQuizzer
 Adaptive AI-Based Quiz Generator
 
 Transform your study material into intelligent quizzes and track your learning progress with AI-powered insights.
@@ -74,30 +74,52 @@ Monitor learning growth
 ⚙️ Workflow
 
 → User visits homepage
+
+
 → User logs in / signs up
+
 → Inputs text or uploads PDF
+
 → Selects quiz type & difficulty level
+
 → AI (Groq API) generates quiz questions
+
 → User attempts the quiz
+
 → System evaluates answers
+
 → Shows correct & wrong answers with explanations
+
 → Provides feedback (e.g., Work harder / Good job)
+
 → Displays performance graphs
+
 → Stores quiz data in MongoDB
+
 → User can view quiz history & improvement over time
 
 🛠️ Tech Stack
+
 Layer	Technology Used
+
 Backend	Flask
+
 Frontend	HTML, CSS, JavaScript
+
 Database	MongoDB 
+
 LLM AI - Groq API
 
 Why SmartQuizzer?
+
 📚 Makes studying interactive
+
 ⚡ Instant evaluation and explanations
+
 📊 Visual learning insights
+
 🧠 Adaptive and personalized experience
+
 🔄 Continuous improvement tracking
 
 Easy-to-use interface
