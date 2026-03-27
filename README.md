@@ -33,6 +33,7 @@ Selects quiz type and difficulty
 Takes the generated quiz
 Receives detailed results and feedback
 Views performance graphs and history
+
 📈 Goal
 
 To provide a smart and adaptive learning platform that helps users improve their knowledge through AI-generated quizzes and performance tracking.
