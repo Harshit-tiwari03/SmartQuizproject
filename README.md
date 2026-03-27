@@ -47,7 +47,7 @@ SmartQuizzer is an AI-driven platform that generates customized quizzes from use
     <td>🎨 <strong>Glassmorphic UI</strong></td>
     <td>Modern dark-themed design with glass effects and gradient animations</td>
   </tr>
-
+  </table>
 ---
 
 ## 🛠️ Tech Stack
