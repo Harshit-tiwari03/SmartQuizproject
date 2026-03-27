@@ -10,7 +10,7 @@
 
 Adaptive AI-Based Quiz Generator.
 
-An intelligent quiz platform that leverages Llama 3.3 **  to generate context-aware questions, track learning progress, and deliver AI-powered performance insights — all wrapped in a stunning UI.
+An intelligent quiz platform that leverages AI technology  to generate context-aware questions, track learning progress, and deliver AI-powered performance insights — all wrapped in a stunning UI.
 
 
 Transform your study material into intelligent quizzes and track your learning progress with AI-powered insights.
