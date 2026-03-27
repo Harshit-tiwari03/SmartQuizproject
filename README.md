@@ -5,10 +5,13 @@
     <em>Transform any content into personalised, intelligent assessments</em>
   </p>
 
+
+
 **Turns text or PDF's into Quiz.**
 
 
 Adaptive AI-Based Quiz Generator.
+
 
 An intelligent quiz platform that leverages AI technology  to generate context-aware questions, track learning progress, and deliver AI-powered performance insights — all wrapped in a stunning UI.
 
