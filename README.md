@@ -12,34 +12,63 @@ SmartQuizzer is an AI-driven platform that generates customized quizzes from use
 
 ✨ Key Features
 🔐 Authentication
+
 Secure Login & Signup system
+
 Personalized user experience
+
 📄 Smart Input System
+
 Generate quizzes from:
+
 Text input
+
 PDF uploads
+
 🎯 Custom Quiz Generation
+
+
 Select quiz type (MCQ, etc.)
+
 Choose difficulty level (Easy, Medium, Hard)
+
 AI dynamically generates questions
+
 🧩 Quiz Experience
+
 Clean and interactive interface
+
 Real-time answering
+
 📊 Detailed Result Analysis
+
 ✅ Correct vs ❌ Incorrect answers
+
 📌 Correct answers displayed
+
 💡 Explanation for wrong responses
+
 💬 Feedback System
+
 Personalized feedback like:
+
 “Good job!”
 “Work harder and try again!”
+
 📈 Performance Tracking
+
 Visual graphs & analytics
+
 Track improvement over time
+
 Compare past and current performance
+
 🕒 Quiz History
+
 View all previous quizzes
+
 Analyze past attempts
+
 Monitor learning growth
 
 ⚙️ Workflow
@@ -62,6 +91,7 @@ Layer	Technology Used
 Backend	Flask
 Frontend	HTML, CSS, JavaScript
 Database	MongoDB 
+LLM AI - Groq API
 
 Why SmartQuizzer?
 📚 Makes studying interactive
@@ -70,7 +100,5 @@ Why SmartQuizzer?
 🧠 Adaptive and personalized experience
 🔄 Continuous improvement tracking
 
-
-AI Engine	Groq API
 Easy-to-use interface
 Supports multiple content formats
