@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">🧠 AdaptiveQuiz</h1>
+  <h1 align="center">🧠 SmartQuizzer </h1>
   <p align="center">
     <strong>AI-Powered Adaptive Quiz Platform</strong><br/>
     <em>Transform any content into personalised, intelligent assessments</em>
