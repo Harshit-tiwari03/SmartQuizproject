@@ -58,7 +58,7 @@ SmartQuizzer is an AI-driven platform that generates customized quizzes from use
 ├─────────────────────────────────────────────────────────┤
 │  BACKEND           Flask                                │
 ├─────────────────────────────────────────────────────────┤
-│  AI ENGINE         Groq API · Llama 3.3 70B             │
+│  AI ENGINE         Groq API - Llama 3.3                 │
 ├─────────────────────────────────────────────────────────┤
 │  DATABASE          Mongo DB                             │
 ├─────────────────────────────────────────────────────────┤
