@@ -1,80 +1,76 @@
-SmartQuizzer: Adaptive AI based Quiz Generator. 
-Turns text or PDF's into Quiz.
+<p align="center">
+  <h1 align="center">🧠 AdaptiveQuiz</h1>
+  <p align="center">
+    <strong>AI-Powered Adaptive Quiz Platform</strong><br/>
+    <em>Transform any content into personalised, intelligent assessments</em>
+  </p>
 
-SmartQuizzer
-Adaptive AI-Based Quiz Generator
+**Turns text or PDF's into Quiz.**
+
+
+Adaptive AI-Based Quiz Generator.
+
+An intelligent quiz platform that leverages Llama 3.3 **  to generate context-aware questions, track learning progress, and deliver AI-powered performance insights — all wrapped in a stunning UI.
+
 
 Transform your study material into intelligent quizzes and track your learning progress with AI-powered insights.
 
-🚀 Overview
+## 🚀 Overview
 
 SmartQuizzer is an AI-driven platform that generates customized quizzes from user-provided content such as text or PDFs. It adapts to user preferences like difficulty and quiz type, while providing detailed feedback, performance analytics, and progress tracking.
 
-✨ Key Features
-🔐 Authentication
+## ✨Features
 
-Secure Login & Signup system
+<table>
+  <tr>
+    <td>🎯 <strong>AI Quiz Generation</strong></td>
+    <td>Generate MCQ & Fill in the balnks questions from topics, raw text, or PDF uploads</td>
+  </tr>
+  <tr>
+    <td>📊 <strong>Adaptive Difficulty</strong></td>
+    <td>Questions adapt based on your performance — Easy, Medium, Hard</td>
+  </tr>
 
-Personalized user experience
+   <tr>
+    <td>📈 <strong>Smart Input </strong></td>
+    <td> Generate quizzes from. Text input , PDF uploads</td>
+  </tr>
+  <tr>
+    <td>📈 <strong>Authentication</strong></td>
+    <td>Secure Login & Signup system</td>
+  </tr>
+  <tr>
+    <td>📈 <strong>Smart Analytics</strong></td>
+    <td>Score history charts, topic mastery bars, and AI-generated insights</td>
+  </tr>
+  <tr>
+    <td>🎨 <strong>Glassmorphic UI</strong></td>
+    <td>Modern dark-themed design with glass effects and gradient animations</td>
+  </tr>
 
-📄 Smart Input System
+---
 
-Generate quizzes from:
+## 🛠️ Tech Stack
 
-Text input
+```
+┌─────────────────────────────────────────────────────────┐
+│  FRONTEND          HTML CSS JAVASCRIPT                  │
+├─────────────────────────────────────────────────────────┤
+│  BACKEND           Flask                                │
+├─────────────────────────────────────────────────────────┤
+│  AI ENGINE         Groq API · Llama 3.3 70B             │
+├─────────────────────────────────────────────────────────┤
+│  DATABASE          Mongo DB                             │
+├─────────────────────────────────────────────────────────┤
 
-PDF uploads
+```
 
-🎯 Custom Quiz Generation
+---
 
 
-Select quiz type (MCQ, etc.)
-
-Choose difficulty level (Easy, Medium, Hard)
-
-AI dynamically generates questions
-
-🧩 Quiz Experience
-
-Clean and interactive interface
-
-Real-time answering
-
-📊 Detailed Result Analysis
-
-✅ Correct vs ❌ Incorrect answers
-
-📌 Correct answers displayed
-
-💡 Explanation for wrong responses
-
-💬 Feedback System
-
-Personalized feedback like:
-
-“Good job!”
-“Work harder and try again!”
-
-📈 Performance Tracking
-
-Visual graphs & analytics
-
-Track improvement over time
-
-Compare past and current performance
-
-🕒 Quiz History
-
-View all previous quizzes
-
-Analyze past attempts
-
-Monitor learning growth
-
-⚙️ Workflow
+## ⚙️ Workflow
 
 → User visits homepage
-
 
 → User logs in / signs up
 
@@ -98,19 +94,9 @@ Monitor learning growth
 
 → User can view quiz history & improvement over time
 
-🛠️ Tech Stack
 
-Layer	Technology Used
 
-Backend	Flask
-
-Frontend	HTML, CSS, JavaScript
-
-Database	MongoDB 
-
-LLM AI - Groq API
-
-Why SmartQuizzer?
+## Why SmartQuizzer?
 
 📚 Makes studying interactive
 
@@ -123,4 +109,5 @@ Why SmartQuizzer?
 🔄 Continuous improvement tracking
 
 Easy-to-use interface
+
 Supports multiple content formats
