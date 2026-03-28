@@ -114,3 +114,13 @@ SmartQuizzer is an AI-driven platform that generates customized quizzes from use
 Easy-to-use interface
 
 Supports multiple content formats
+
+## Steps to run
+
+Clone the repository 
+
+Create and activate the virtual environment 
+
+Install the dependencies 
+
+And Run.
